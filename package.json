@@ -1,0 +1,35 @@
+{
+  "name": "fui",
+  "version": "0.0.1",
+  "description": "Functional UI - based on CSS modules and React.js components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitry/fui.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "modules",
+    "react.js",
+    "component",
+    "css",
+    "framework",
+    "react",
+    "framework",
+    "modular",
+    "framework"
+  ],
+  "author": "Dmitry Polushkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitry/fui/issues"
+  },
+  "homepage": "https://github.com/dmitry/fui#readme",
+  "dependencies": {
+    "react-css-modules": "^3.7.4"
+  }
+}
