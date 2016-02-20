@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmitry/fui.git"
+    "url": "git+https://github.com/dmitry/functional-ui.git"
   },
   "keywords": [
     "react",
@@ -21,14 +21,16 @@
     "react",
     "framework",
     "modular",
-    "framework"
+    "framework",
+    "ui",
+    "functional"
   ],
   "author": "Dmitry Polushkin",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dmitry/fui/issues"
+    "url": "https://github.com/dmitry/functional-ui/issues"
   },
-  "homepage": "https://github.com/dmitry/fui#readme",
+  "homepage": "https://github.com/dmitry/functional-ui#readme",
   "dependencies": {
     "react-css-modules": "^3.7.4"
   }
